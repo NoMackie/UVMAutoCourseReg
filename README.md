@@ -8,6 +8,8 @@ Note 2: Again for now please only use the "now" registration type, as this progr
 
 Directions:
 
+Run balls.exe as administrator - the program will not be able to edit other windows if you don't do this!
+
 1. Choose test run or official run
 	A test run will NOT hit enter after typing in CRNs. This is to make sure your mouse pointer correctly gets the position of the text boxes.
 	An official run WILL hit enter after typing in CRNs. Only use this when you're actually registering, or you're on a simulation site.
